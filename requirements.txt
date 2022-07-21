@@ -1,0 +1,11 @@
+matplotlib
+numpy
+scipy
+opencv-python
+ffmpeg
+imageio
+imageio-ffmpeg
+ipywidgets
+pandas
+seaborn
+sklearn
